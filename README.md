@@ -1,2 +1,3 @@
-# VisualBasicModules
-There is my custom modules wich is free for visual basic.
+# SimpleMessageBox
+This module adds CriticalError, InfoBox, AlertBox wich is fully customisable.
+Credits: DevToutSeul
